@@ -1,0 +1,28 @@
+body {
+	margin: 15%;
+	margin-top: 5%;
+}
+
+h1 {
+	text-align: center;
+}
+
+p, div {
+	margin-left: 5%
+}
+
+#school {
+	font-weight: bold;
+}
+
+.employer {
+	font-weight: bold;
+}
+
+.subject {
+	font-weight: bold;
+}
+
+.job-description {
+	font-style: italic;
+}
