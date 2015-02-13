@@ -26,3 +26,8 @@ p, div {
 .job-description {
 	font-style: italic;
 }
+
+img {
+	width: 50%;
+	height: auto;
+}
