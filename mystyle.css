@@ -28,6 +28,11 @@ p, div {
 }
 
 img {
-	width: 50%;
+	width: 30%;
 	height: auto;
+}
+
+#homepage div{
+	text-align: center;
+	margin-left: 0%;
 }
